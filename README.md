@@ -25,8 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essentialblend&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="essentialblend" /></p>
 
 </td>
+
 <td width="50%" style="display: flex; justify-content: center; align-items: center;">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=essentialblend&label=Profile%20views&color=480091&style=flat" alt="essentialblend" /> </p>
 <img src="pygmy.gif" alt="Marmoset GIF" width="100%" style="display:block;"/>
+
 </td>
 </tr>
 </table>
