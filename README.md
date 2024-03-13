@@ -2,7 +2,7 @@
 <h3 align="center">Graphics programmer, computer scientist, musician, watercolour enthusiast.</h3>
 
 
-- 🌱 I’m currently learning **Graphics: SICP, PBR, RTR. Math: Homotopy Type Theory, P&S.**
+- 🌱 I’m currently learning **Graphics: PBR, RTR. Math: Homotopy Type Theory, P&S. CS: SICP**
 
 - 🔭 I’m currently working on **my path-tracer.**
 
