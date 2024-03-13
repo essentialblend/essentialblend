@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **ambiverb@gmail.com**
 
-- 📄 CV: [Click to download a copy.](https://github.com/essentialblend/curriculum-vitae-2024/releases/download/v0.1.0/gcv_siddharthnair_mar_24.pdf)
+- 📄 CV: [download a copy.](https://github.com/essentialblend/curriculum-vitae-2024/releases/download/v0.1.0/gcv_siddharthnair_mar_24.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
