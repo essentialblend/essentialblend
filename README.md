@@ -33,3 +33,9 @@
 </td>
 </tr>
 </table>
+
+<hr>
+<p align="center">
+  <strong>Credits:</strong> Generated with <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">GitHub Profile Readme Generator</a>
+</p>
+
