@@ -27,7 +27,7 @@
 </td>
 
 <td width="50%" style="display: flex; justify-content: center; align-items: center;">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=essentialblend&label=Profile%20views&color=480091&style=flat" alt="essentialblend" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=essentialblend&label=Pygmy%20Marmoset%20Views&color=480091&style=flat" alt="essentialblend" /> </p>
 <img src="pygmy.gif" alt="Marmoset GIF" width="100%" style="display:block;"/>
 
 </td>
