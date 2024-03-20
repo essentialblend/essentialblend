@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **my path-tracer.**
 - 💬 Ask (or tell) me about **C++, Agda, math, raytracing, paints/pigments, music, synths/guitars.**
 - 📫 Reach me at **ambiverb@gmail.com**.
-<!--- 📄 CV: [download a copy.](https://github.com/essentialblend/curriculum-vitae-2024/releases/download/v0.1.0/gcv_siddharthnair_mar_24.pdf) -->
+- 📄 CV: [download a copy.](https://github.com/essentialblend/curriculum-vitae-2024/releases/download/v0.1.1/cv_siddharthnair_2024_graphics.pdf)
 - ⚡ Find my music on [Bandcamp](https://essentialblend.bandcamp.com).
 
 <h3 align="left">Connect with me:</h3>
