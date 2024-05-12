@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Siddharth</h1>
-<h3 align="center">Graphics programmer, computer scientist, musician, watercolour enthusiast.</h3>
 
 <table width="100%">
 <tr>
