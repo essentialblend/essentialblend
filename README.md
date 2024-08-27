@@ -8,9 +8,6 @@
 - 🔭 I’m currently working on **my path-tracer.**
 - 💬 Ask (or tell) me about **C++, Agda, math, raytracing, paints/pigments, music, synths/guitars.**
 - ⚡ Some of my project/development repositories: [PathTracer](https://github.com/essentialblend/weekend-raytracing), [OpenGLDemo](https://github.com/essentialblend/openGLgfxDemo), [MS Research Project](https://github.com/essentialblend/integers-comm-ring), [GameOfLife](https://github.com/essentialblend/game-of-life-2D), [BeginningCPP23](https://github.com/essentialblend/beginning-cpp23).
-- 📝 [Everything I've read, am reading, or will read at some point.](https://www.goodreads.com/essentialblend)
-- 📄 CV: [download a copy.](https://github.com/essentialblend/curriculum-vitae-2024/releases/download/v0.1.1/cv_siddharthnair_2024.pdf)
-- ⚡ Find my music on [Bandcamp](https://essentialblend.bandcamp.com).
 - 📫 Reach me at **ambiverb@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
