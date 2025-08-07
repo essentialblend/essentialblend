@@ -5,7 +5,7 @@
 <td valign="top" width="50%">
 
 
-I'm a computational scientist working in the intersection of theoretical computer science and the constructive foundations of mathematics. My work involves robust formalizations of various structures within mathematics and logic using computer aided proof assistants. My main areas of focus are:
+I work in the intersection of theoretical computer science and the constructive foundations of mathematics. My work involves robust formalizations of various structures within mathematics and logic using computer aided proof assistants. My main areas of focus are:
 
 - **Formal Methods:** Using proof assistants like Agda and Lean to formalize mathematics and reason about software correctness. My MSc thesis involved building a complete, machine-verified formalization of the commutative ring axioms of the integers from first principles
 
